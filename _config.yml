@@ -3,7 +3,7 @@
 title: David Nowak # give your site a title
 email: DavidLNowak@Wayne.edu # put your email address in here; optional
 # edit your site description; keep it brief
-description: >  David's Blog for English 7006
+description: David's Blog for English 7006
 
 baseurl:  # the subpath of your site, e.g. /blog/; if unsure, leave this blank
 url: http://davidlnowak.github.io # replace [username] with your github username (no brackets)
