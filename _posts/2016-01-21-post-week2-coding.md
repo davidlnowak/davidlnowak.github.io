@@ -1,11 +1,10 @@
 ---
 layout: post
-title: 'Week 2'
+title: 'Going back to the future:'
 description: 'Initial musings on coding'
 categories: coding weekly
 ---
 
-## Going back to the future:
 ---
 
 
