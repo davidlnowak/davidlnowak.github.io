@@ -5,13 +5,13 @@ description: 'Initial musings on coding'
 categories: coding weekly
 ---
 
-##Going back to the future:
+## Going back to the future:
 
 I have been programming for more years than I am going to admit in this post.  My career as a professional developer started with COBOL running on Digital Equipment Corporation (DEC) computers including the PDP-11 series and VAX—equipment that exists only in museums today.
 
 My coding work throughout my career has been in the service of business—manufacturing and finance.  As such, the product of my coding is by necessity all business oriented—a space where there exists no bouncing balls or crudely drawn cars and houses.  A world only of facts, statistics, lookups, and reports.  The coding of this world is by no means experimental—there is little time for such.  To the degree that there is any experimentation it is always with a focus of how existing coding paradigms can be extended into new or evolving technologies.  
 
-Professional software development is a world of patterns and time tested principles.  SOLID is an example of such principles where each letter of the mnemonic represents a particular aspect of object-oriented practices: S-Single responsibility; O-Open/closed; L-Liskov substitution; I-Interface segregation; and D-Dependency inversion.  A good description of these can be found [here](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
+Professional software development is a world of patterns and time tested principles.  SOLID is an example of such principles where each letter of the mnemonic represents a particular aspect of object-oriented practices: S-Single responsibility; O-Open/closed; L-Liskov substitution; I-Interface segregation; and D-Dependency inversion.  A good description of these can be found [here.](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design)
 
 **So, what have I learned in the first two weeks of this class?**
 
