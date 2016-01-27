@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'Going back to the future:'
+title: 'Week 2'
 description: 'Initial musings on coding'
 categories: coding weekly
+---
+
+## Going back to the future:
 ---
 
 I have been programming for more years than I am going to admit in this post.  My career as a professional developer started with COBOL running on Digital Equipment Corporation (DEC) computers including the PDP-11 series and VAX—equipment that exists only in museums today.
