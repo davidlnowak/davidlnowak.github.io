@@ -6,7 +6,7 @@ permalink: /blogsites/
 
 | Student | Blog-Site |
 | :----------------------------------- | :------------------------------------------------------ |
-| Nathaniel Bell | http://nattybee.github.io |
+| Nathaniel Bell | (http://nattybee.github.io) |
 | Todd Breijak | http://tbreijak.github.io |
 | Courtney Hale | http://courtneyhale.github.io |
 | Sarah Hunton | http://sjhunton.github.io |
