@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Going back to the future:'
+title: 'Going back to the future'
 description: 'Initial musings on coding'
 categories: coding weekly
 ---
