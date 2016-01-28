@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h3>David L. Nowak</h3>
+# David L. Nowak
 
 I am a first year PhD student here at WSU.  My concentation is Early Modern with a focus in Shakespeare.  Additional interests include Film (Shakespeare and film, and Eastern European cinema), and Religion.
 
