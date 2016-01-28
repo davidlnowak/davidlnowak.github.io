@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog_Sites
+title: Blog Sites
 permalink: /blogsites/
 ---
 
