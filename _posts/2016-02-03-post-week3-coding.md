@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Going back to the future'
-description: 'Initial musings on coding'
+title: 'Back to Basics'
+description: 'Week 3 musings on coding'
 categories: coding weekly
 ---
 
