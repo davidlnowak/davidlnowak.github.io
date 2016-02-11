@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kitler
+title: Haraway
 description: Donna Haraway's “A Cyborg Manifesto”
 categories: readings responses weekly
 ---
