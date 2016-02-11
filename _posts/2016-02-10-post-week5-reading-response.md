@@ -5,7 +5,7 @@ description: Donna Haraway's “A Cyborg Manifesto”
 categories: readings responses weekly
 ---
 
-## WTF!
+### WTF!
 ---
 
 I am most interested in the imagery of monsters that runs throughout the manifesto.  I think I understand portions of this, but I’m not altogether clear as to the purpose of certain others. 
