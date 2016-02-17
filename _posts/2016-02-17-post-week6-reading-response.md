@@ -15,6 +15,6 @@ This is an immersion of data.  And with this immersion we are faced with two opp
 
 Manovich unintentionally provides one such example of this.  On the topic of modularity he mentions The Netomat browser “which extracts elements of a particular media type from different Web pages . . . and displays them together without identifying the Web sites from which they are drawn” (30).  Intrigued by The Netomat browser, I decided to check it out.  What began as a network-based art project by Maciej Wisniewski has become a vendor of a [“state-of-the-art suite of products that enable your enterprise to deliver its online world to users on thousands of different mobile devices”](https://www.netomat.net/).
 
-The vision of Tim Berners-Lee’s “Linked Data” seems to be slipping away.  Modularity is nothing more than, as [Todd]( http://tbreijak.github.io/blog/2016-02-17/Manovich-and-Haraway.html) notes in his post, objects that are “stored independently of each other.”  
+The vision of Tim Berners-Lee’s “Linked Data” seems to be slipping away.  Modularity is nothing more than, as [Todd](http://tbreijak.github.io/blog/2016-02-17/Manovich-and-Haraway.html) notes in his post, objects that are “stored independently of each other.”  
 
 Immersion comes with a price.  And the price of admission is so costly that you find yourself locked in a single narrative.
