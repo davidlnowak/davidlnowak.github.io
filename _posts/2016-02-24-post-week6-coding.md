@@ -16,4 +16,4 @@ In my searching for ideas I found a blending of the theories of both.  There is 
 
 What’s interesting with many of these examples is just how cool they are and how complex some of the code happens to be.  [Noah]( http://noahmcmlln.github.io/blog/2016-02-17/the-code-wall.html), in his blog last week, intimated as much as he begins to break down what it will take just to make rain fall on the screen.
 
-It’s also nice to see approaches and coding styles of others who are doing some very interesting things in code.
+It’s also nice to see approaches and coding styles of others who are doing some very interesting things in code.  It is frustrating as well.  I begin to question "why didn't I figure that out myself," or "why I'm not as creative"?
