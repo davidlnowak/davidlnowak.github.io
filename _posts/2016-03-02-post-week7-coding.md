@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'Just Hanging On'
+description: 'Week 7 musings on coding'
+categories: coding weekly
+---
+
+I have been sick all week (really almost two weeks now).  I haven’t touched any coding since class this past Thursday.  Wherever my balls were last week they are in the same place today.  So, I’m behind now in my work (everything, everywhere), and it’s a scary feeling.  
+
+Last Thursday’s lab was pretty great.  I got to work with Adina.  It was nice being able to talk through ideas and issues outside of my own head with another human being.  It seemed to make the coding a more human and humane experience.  [Joe’s blog this week]( http://joetorok.github.io/blog/2016-03-02/coding-confidence.html) echoes this experience.  He says, “Bouncing ideas off someone else seemed to really work well for me in the nitty-gritty of code writing.”  I agree.
+
+In the coding meetup before the class, Scott said that programmers simply want to get started writing code.  He further elaborated that we should take the time to sit down and think through the work beforehand using sketches and pseudocode to do so.  I find myself all too often just getting into the code thinking that I will figure it out as I go along.  I took some time today, to write a basic flow and some pseudocode for some things that I wanted to do, and I was amazed how much I got down on paper that I probably would have struggled with had I just started coding.
+
+One thing that I have done this past week is to begin to think seriously about my project.  I had determined at the beginning of the semester to work on a [digital challenge presented by the MLA]( https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Publications/Committee-on-the-New-Variorum-Edition-of-Shakespeare/The-New-Variorum-Shakespeare-Digital-Challenge).  The purpose of this challenge is to “find the most innovative and compelling uses of the data contained in one of the New Variorum Shakespeare Editions.”  To that end, I have been researching a number of toolsets that might be of value for this project.  I may not have the time to do all of the coding that I would like to do, and the finished project for the class may only be a sketch of ideas for the data coupled with the theory and some proof-of-concept applications.  
+
+I want to put together a website to host the work that I will be doing with this project.  To this end, I purchased the domain ThisPettyPlace.com.  The name comes from Macbeth’s “To-morrow, and to-morrow, and to-morrow” soliloquy (5.5.19-28).  As part of my research I found [The Shakespearean Archive: Experiments in New Media from the Renaissance to Postmodernity]( http://www.amazon.com/The-Shakespearean-Archive-Experiments-Postmodernity-ebook/dp/B00M75O70A/ref=dp_kinw_strp_1).  This book explores the question of why Shakespeare is so often associated with information technologies and with the idea of archiving.  I think this might be of help as I begin my project.  I also found a nice website: [Digital Humanities Now]( http://digitalhumanitiesnow.org/).  This site “aggregates and selects material from . . . digital humanities scholarship . . . including the personal websites of scholars, institutional sites, blogs, and other feeds.
