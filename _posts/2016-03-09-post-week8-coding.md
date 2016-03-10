@@ -9,9 +9,9 @@ This past week’s coding went well.  Again, we paired off and I got to work wit
 
 At this point, I can only echo what everyone else is saying in that this has been a terrific experience: [Todd]( http://tbreijak.github.io/blog/2016-03-03/Working-In-Pairs.html), [Aden]( http://adenj86.github.io/blog/2016-03-09/Mixed-Emotions.html), and [Noah]( http://noahmcmlln.github.io/blog/2016-03-09/i-luv-pseudocode.html).  Being sick for two weeks really put me behind in all of my work—dailies and reading.  I’m getting caught up though I haven’t created pull requests yet for most of my work.  I finally got the last daily from the bubbles sequence finished—the one where you create your own shapes.  
 
-> Here is an image of the drawing:
+> Here is an image of this drawing:
 
-![stars](http://davidlnowak.github.io/images/stars.png "Static Stars Image")
+![stars](http://davidlnowak.github.io/images/Stars.png "Static Stars Image")
 
 The static image, of course, doesn’t do it justice as I have the stars moving around slightly and changing colors.  I know it’s silly, but I’m really am pretty proud of this.
 
