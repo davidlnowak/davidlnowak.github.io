@@ -11,7 +11,7 @@ At this point, I can only echo what everyone else is saying in that this has bee
 
 > Here is an image of this drawing:
 
-![stars](http://davidlnowak.github.io/blog/images/Stars.png "Static Stars Image")
+![stars]({{ site.baseurl }}/images/Stars.png "Static Stars Image")
 
 The static image, of course, doesn’t do it justice as I have the stars moving around slightly and changing colors.  I know it’s silly, but I’m really am pretty proud of this.
 
