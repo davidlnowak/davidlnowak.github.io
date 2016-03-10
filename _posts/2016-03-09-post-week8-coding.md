@@ -11,7 +11,7 @@ At this point, I can only echo what everyone else is saying in that this has bee
 
 > Here is an image of this drawing:
 
-![stars](https://drive.google.com/open?id=0B9wnrImSjk03a3czX3VVbjg0NGs "Static Stars Image")
+![stars](https://www.cubbyusercontent.com/pl/Stars.png/_369c075581b240bab1400720125d9a36 "Static Stars Image")
 
 The static image, of course, doesn’t do it justice as I have the stars moving around slightly and changing colors.  I know it’s silly, but I’m really am pretty proud of this.
 
