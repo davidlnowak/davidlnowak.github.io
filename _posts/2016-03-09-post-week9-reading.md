@@ -10,4 +10,4 @@ I first tried Stick Shift.  I didn’t know what the hell I was doing—and I dr
 
 So, I’m sitting there—stopped by the cops.  Now, there’s a timer on the screen, and every time I click the mouse my character blows a kiss to the officers—and another 10 minutes gets added to the timer.  I exited the game, restarted it and it remembers the place I left off with the timer still counting down.
 
-So, I’m at a point where I just don’t understand.  I just don’t get it.  Perhaps, this is my issue with playing games is that I either always lose, get killed, can’t get past a certain stage, or can’t figure the damn thing out.  
+So, I’m at a point where I just don’t understand.  I just don’t get it.  Perhaps, this is my issue with playing games is that I either always lose, get killed, can’t get past a certain stage, or can’t figure the damn thing out.  Reading [Aden's Post](http://adenj86.github.io/blog/2016-03-09/Corporate-Training.html), I'm not sure what to make of the statement that "games prepare us for participation in a capitalist system."  Perhaps, I'm just playing the wrong games.
