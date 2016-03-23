@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Coding the Myster'
+title: 'Coding the Mystery'
 description: 'Week 9 musings on coding'
 categories: coding weekly
 ---
