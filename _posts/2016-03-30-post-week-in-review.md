@@ -4,9 +4,9 @@ title: 'Week In Review (week 10)'
 description: 'Aden and David'
 categories: review
 ---
+
+24 March 2016: Seminar (Aden and David)
 ___
-24 March 2016: Seminar
-(Aden and David)
 
 
 > Before taking questions from the class, Scott says, “This week, more than many others is driven by a question: What do we mean by the ‘materiality’ of media?”
@@ -78,7 +78,7 @@ ___
 
 ### The Blogs:
 
- 
+
 Though some comments were made about Nakamura early in the session, we spent very little time engaging her work in the seminar discussion. One possible reason for this might be that many students engaged this work in their blogs.
 
 [Todd](http://tbreijak.github.io/blog/2016-03-23/Corporate-Exploitation-in-Nakamura.html) took a critical stance towards Nakamura’s piece, and wrote that while “Nakamura’s article is informative as a case study, that women (of color and otherwise) and children have historically been taken advantage of by industry certainly will surprise no one.” He asked if today’s common practice of outsourcing work is any better than the case study that Nakamura makes. His discussion is extended with a parallel drawn between the Navajo and with the Radium Girls, whom were most likely employed for gendered reasons similar to those of the Navajo, though not exploited. Todd wrote, “I guess my main problem with this article is that, while a fine case study, it merely chronicles the history of one group, by a company that doesn’t even exist anymore.”
