@@ -11,7 +11,7 @@ ___
 
 > Before taking questions from the class, Scott says, “This week, more than many others is driven by a question: What do we mean by the ‘materiality’ of media?”
 
-# In one respect this class didn’t follow the model of previous sessions in the sense that we didn’t develop the list of questions first. Rather, we engaged in extended periods of discussion and dialogue through which the questions were formulated, and then we returned to those discussions. Even Scott, at one point in the evening, commented that things didn’t seem to be working all that well; indeed, something seemed a little off at times.  The list of questions, as ultimately developed by the group are as follows: #
+*In one respect this class didn’t follow the model of previous sessions in the sense that we didn’t develop the list of questions first. Rather, we engaged in extended periods of discussion and dialogue through which the questions were formulated, and then we returned to those discussions. Even Scott, at one point in the evening, commented that things didn’t seem to be working all that well; indeed, something seemed a little off at times.  The list of questions, as ultimately developed by the group are as follows:*
 
 * Nathaniel: Racial essentialism of the Navajo . . . What is Nakamura trying to get us to do?  Is this an excuse to assuage guilt? Whose guilt?
 * Nathaniel: Sterne: intentional lo-fi? Aesthetics of compression? [Why do we like vocoders?]
@@ -75,6 +75,7 @@ Hassan extends our discussion of the forensic by noting a sense of illusion rela
 When we ask questions about materiality the phenomenological tends to fades.
 
 ___
+
 ### The Blogs:
 
 Though some comments were made about Nakamura early in the session, we spent very little time engaging her work in the seminar discussion. One possible reason for this might be that many students engaged this work in their blogs.
