@@ -8,11 +8,10 @@ categories: review
 ___
 24 March 2016: Seminar
 (Aden and David)
-___
 
 > Before taking questions from the class, Scott says, “This week, more than many others is driven by a question: What do we mean by the ‘materiality’ of media?”
 
-#In one respect this class didn’t follow the model of previous sessions in the sense that we didn’t develop the list of questions first. Rather, we engaged in extended periods of discussion and dialogue through which the questions were formulated, and then we returned to those discussions. Even Scott, at one point in the evening, commented that things didn’t seem to be working all that well; indeed, something seemed a little off at times.  The list of questions, as ultimately developed by the group are as follows:#
+# In one respect this class didn’t follow the model of previous sessions in the sense that we didn’t develop the list of questions first. Rather, we engaged in extended periods of discussion and dialogue through which the questions were formulated, and then we returned to those discussions. Even Scott, at one point in the evening, commented that things didn’t seem to be working all that well; indeed, something seemed a little off at times.  The list of questions, as ultimately developed by the group are as follows: #
 
 * Nathaniel: Racial essentialism of the Navajo . . . What is Nakamura trying to get us to do?  Is this an excuse to assuage guilt? Whose guilt?
 * Nathaniel: Sterne: intentional lo-fi? Aesthetics of compression? [Why do we like vocoders?]
@@ -74,13 +73,13 @@ Hassan extends our discussion of the forensic by noting a sense of illusion rela
 > 8:21 PM: To What End?
 
 When we ask questions about materiality the phenomenological tends to fades.
-___
 
+___
 ### The Blogs:
 
 Though some comments were made about Nakamura early in the session, we spent very little time engaging her work in the seminar discussion. One possible reason for this might be that many students engaged this work in their blogs.
 
-[Todd]((http://tbreijak.github.io/blog/2016-03-23/Corporate-Exploitation-in-Nakamura.html) took a critical stance towards Nakamura’s piece, and wrote that while “Nakamura’s article is informative as a case study, that women (of color and otherwise) and children have historically been taken advantage of by industry certainly will surprise no one.” He asked if today’s common practice of outsourcing work is any better than the case study that Nakamura makes. His discussion is extended with a parallel drawn between the Navajo and with the Radium Girls, whom were most likely employed for gendered reasons similar to those of the Navajo, though not exploited. Todd wrote, “I guess my main problem with this article is that, while a fine case study, it merely chronicles the history of one group, by a company that doesn’t even exist anymore.”
+[Todd](http://tbreijak.github.io/blog/2016-03-23/Corporate-Exploitation-in-Nakamura.html) took a critical stance towards Nakamura’s piece, and wrote that while “Nakamura’s article is informative as a case study, that women (of color and otherwise) and children have historically been taken advantage of by industry certainly will surprise no one.” He asked if today’s common practice of outsourcing work is any better than the case study that Nakamura makes. His discussion is extended with a parallel drawn between the Navajo and with the Radium Girls, whom were most likely employed for gendered reasons similar to those of the Navajo, though not exploited. Todd wrote, “I guess my main problem with this article is that, while a fine case study, it merely chronicles the history of one group, by a company that doesn’t even exist anymore.”
 
 Building off Todd’s questions, [Nathaniel](http://nattybee.github.io//blog/2016-03-23/compression.html) asked if there is another, more recent example of racial essentialism being used to promote a minority group performing technological labor to go along with Nakamura’s example. He found Nakamura’s notion of “the platform” to be more intriguing, and mentions that the labor behind our devices is usually and intentionally hidden from the consumer. According to Nathaniel, “We don’t want to see the labor that goes into the chip and the tech companies have been kind enough to keep all of that covered up for us so that we just think of the laborers are faceless clean room dancers instead of people for which anti-suicide nets have to be set up for when the hours and pay lead them to want to jump off the roof of the plant they work at”.
 
