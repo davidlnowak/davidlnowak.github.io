@@ -75,10 +75,10 @@ Hassan extends our discussion of the forensic by noting a sense of illusion rela
 
 When we ask questions about materiality the phenomenological tends to fades.
 
-___
 
 ### The Blogs:
 
+___
 
 Though some comments were made about Nakamura early in the session, we spent very little time engaging her work in the seminar discussion. One possible reason for this might be that many students engaged this work in their blogs.
 
