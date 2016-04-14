@@ -17,9 +17,7 @@ highlighter: rouge # this will cause a harmless error on github build; you can i
 
 # Pagination
 gems: [jekyll-paginate]
-paginate: 15
+paginate: 25
 paginate_path: "/blog/page:num/"
 
 permalink: /blog/:year-:month-:day/:title.html
-
-
